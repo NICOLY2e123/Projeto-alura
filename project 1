@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Meu portfólio</title>
+</head>
+ <body>
+  <header class="container text-conter">
+    <img src="https://cdn-images.dzcdn.net/images/cover/7f187c9527f5368c5f355427b1172849/500x500-000000-80-0-0.jpg" alt="avatar da Nicoly Vitoria " class="rounded-circle" width="150" height="150" srcset="">
+    <p class="lead">Eu sou Nicoly Vitoria</p>
+    <h1>Eu sei ensinar matematica</h1>
+    <p> Tenho ótima comunicação, aprendo rápido e adoro me comunicar! </p>
+    <p>Minhas habilidades</p>
+    <div>
+            <p class="badge bg-secondary">HTML</p>
+            <p class="badge bg-secondary">CSS</p>
+            <p class="badge bg-secondary">JavaScript</p>
+            <p class="badge bg-secondary">Scratch</p>
+            <p class="badge bg-secondary">Edição de Vídeo</p>
+            <p class="badge bg-secondary">Empresário</p>
+    </div>
+  </header>
+      <main class="container">
+          <h2>Meus projetos</h2>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card" style="width: 18rem;">
+                    <img src="" class="card-img-top" alt="">
+                    <div class="card-body">
+                        <h5 class="card-title">Minha Bi</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+     </main>
+ </body>
+</html>
